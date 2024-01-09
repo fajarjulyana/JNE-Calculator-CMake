@@ -17,7 +17,7 @@ JNE Calculator adalah aplikasi sederhana untuk menghitung volume berat pengirima
 ## Cara Menggunakan
 
 1. Pastikan Anda telah menginstall compiler C++ dan GTK+ 3.
-2. Clone repository ini: `git clone https://github.com/username/repo.git`
+2. Clone repository ini: `git clone https://github.com/fajarjulyana/JNE-Calculator-CMake.git`
 3. Masuk ke direktori aplikasi: `cd JNE-Calculator-CMake`
 4. Buat direktori `build`: `mkdir build`
 5. Masuk ke direktori `build`: `cd build`
