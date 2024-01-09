@@ -1,0 +1,3 @@
+/home/dena/Documents/JNE-Calculator-CMake/build/CMakeFiles/jnecalc.dir
+/home/dena/Documents/JNE-Calculator-CMake/build/CMakeFiles/edit_cache.dir
+/home/dena/Documents/JNE-Calculator-CMake/build/CMakeFiles/rebuild_cache.dir
